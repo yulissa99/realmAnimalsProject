@@ -9,7 +9,7 @@ import android.support.v7.widget.RecyclerView;
 import com.tumblr.remember.Remember;
 
 import java.util.List;
-
+import hernandez.perez.uca.com.realmexample.adapters.AnimalsAdapter;
 import hernandez.perez.uca.com.realmexample.adapters.AnimalsFromDatabaseAdapter;
 import hernandez.perez.uca.com.realmexample.api.Api;
 import hernandez.perez.uca.com.realmexample.models.Animal;

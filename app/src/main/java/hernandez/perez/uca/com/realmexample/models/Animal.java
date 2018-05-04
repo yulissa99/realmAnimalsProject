@@ -1,10 +1,12 @@
 package hernandez.perez.uca.com.realmexample.models;
 
+import io.realm.RealmObject;
+
 /**
  * Created by LENOVO on 3/5/2018.
  */
 
-public class Animal {
+public class Animal extends RealmObject{
     private String nombre;
     private String raza;
     private Integer edad;

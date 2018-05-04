@@ -15,7 +15,7 @@ public class Application extends android.app.Application {
         super.onCreate();
 
         Realm.init(this);
-        Remember.init(getApplicationContext(), "animal.sync");
+        Remember.init(getApplicationContext(), "hernandez.perez.uca.com.realmexample");
     }
 
 }

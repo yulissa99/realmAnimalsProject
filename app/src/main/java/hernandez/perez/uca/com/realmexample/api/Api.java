@@ -5,7 +5,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 public class Api {
 
-    private static final String URL = "http://localhost:3000/api/Animales";
+    private static final String URL = "http://localhost:3000/api/Animales/";
 
     public static ApiInterface instance() {
         Retrofit retrofit = new Retrofit.Builder()
