@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">realmExample</string>
+    <string name="add">add</string>
+    <string name="remove">remove</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
